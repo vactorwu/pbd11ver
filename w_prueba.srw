@@ -5,6 +5,7 @@ end type
 end forward
 
 global type w_prueba from window
+string tag = "s"
 integer width = 3264
 integer height = 1408
 boolean titlebar = true
